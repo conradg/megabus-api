@@ -1,0 +1,883 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:asp="http://www.microsoft.com"><head><link rel="canonical" href="/" /><title>
+	Cheap bus and train travel in the UK, Europe and Ireland | megabus.com
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="description" content="Travel for less from just £1.50 with megabus.com to London, Birmingham, Manchester, Newcastle, Liverpool, Leeds, Edinburgh, Glasgow, Cardiff, Ireland, Paris, Amsterdam, Brussels and Boulogne. " /><meta name="keywords" content="bus, cheap travel, tickets, megabus, train, coach, travel to London, travel to Edinburgh, travel to Glasgow, travel to Newcastle, travel to Birmingham, travel to Manchester." /><link rel="stylesheet" type="text/css" href="css/style.css" /><link rel="stylesheet" type="text/css" href="css/buttons.css?v=2.1" /><link rel="stylesheet" type="text/css" href="css/jquery-ui/jquery-ui-1.8.17.custom.css" /><link rel="stylesheet" type="text/css" href="css/seat-class.css" /><!--[if IE 7]><link rel="stylesheet" href="css/style-ie7.css" type="text/css" media="screen" /><![endif]--><style type="text/css" media="screen,projection">
+            @import 'css/EUCookieStyleOverride.css';
+        </style><link rel="icon" href="favicon-sm.ico" type="image/x-icon" /><link rel="shortcut icon" href="images/favicon-sm.ico" type="image/x-icon" /><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"> </script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"> </script><script type="text/javascript" src="App_Javascript/jquery.lib.js"> </script><!--<!- -[if IE 6]>--><script type="text/javascript" src="App_Javascript/jquery.fixBoxModel.min.js"> </script><!--<![endif]- ->--><script type="text/javascript" src="App_Javascript/swfobject.js"> </script><script type="text/javascript" src="App_Javascript/Validation.js"> </script><script type="text/javascript" src="scripts/buttons.js"> </script><script type="text/javascript" src="scripts/print.js?v=2.0"> </script><script type="text/javascript" src="scripts/mb.js"> </script><meta name="msvalidate.01" content="24E0F8A6A8C667C7C9A769B18A337597" /><meta name="google-site-verification" content="IjaJ5vR_TcYLyuiMY7LkuEJUmMc49y-HANCnpqrszbk" /><link rel="stylesheet" type="text/css" href="/WebResource.axd?d=Ge-YZibR_b9NnzoUnsAis3CuC94KLC-6SvL9JzAJt1e8JINdHQr_3gX7X8S4fMmETNUVh6tysqK9iuCejbfHsqWv4aXgTpYlLDIED1zDuttvsQ9j2Bae0HUuKsdi2qHCp7k4eA2&t=635913202206435501" /><link rel="stylesheet" type="text/css" href="/WebResource.axd?d=e1r3zJN_WVVkJCeBmy9xH2opud5q15Pj1c17wsYUTJEd3gGSnmnh25w1iPF8HC_4-j42-1s2APyYkb-ujo-o9Y69P43Ahk7QnZ7gICOykLhwCYy_UXjU8aAcRf9_UsGRgUUa9zJxmnLsLNi6uDsl7k46ME41&t=635913202206435501" /></head><body><noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-NWC7HS" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript><script>
+					(function (w, d, s, l, i) {
+					w[l] = w[l] || []; w[l].push({ 'gtm.start':
+					new Date().getTime(), event: 'gtm.js'
+					}); var f = d.getElementsByTagName(s)[0],
+					j = d.createElement(s), dl = l != 'dataLayer' ? '&amp;l=' + l : ''; j.async = true; j.src =
+					'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+					})(window, document, 'script', 'dataLayer', 'GTM-NWC7HS');
+				</script><form name="ctl01" method="post" action="default.aspx" id="ctl01">
+<input type="hidden" name="UserStatus_ScriptManager1_HiddenField" id="UserStatus_ScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjAxOTg2MjQ3D2QWAgIBD2QWDAIED2QWBAICDw8WAh4EVGV4dAUfV2VsY29tZSwgWW91IGFyZSBub3QgbG9nZ2VkIGluLmRkAgYPDxYCHwAFEFZpZXcgIEJhc2tldCAoMClkZAIGD2QWJAIDDw8WAh8ABQdFbmdsaXNoZGQCBQ8PFggeCENzc0NsYXNzBSdmbGFnLWljb24gZmxhZy11ayB0b29sdGlwIGFjdGl2ZSBhY3RpdmUfAAVUPHNwYW4+VW5pdGVkIEtpbmdkb208L3NwYW4+DQoJCQkJPHNwYW4gY2xhc3M9InRpcCBza2lubnkiPlVuaXRlZCBLaW5nZG9tPC9zcGFuPg0KCQkJHgtOYXZpZ2F0ZVVybAVMaHR0cDovL3d3dy5tZWdhYnVzLmNvbS9sYW5ndWFnZS5hc2h4P2NuPXVrJmxuPWVuJnBhdGg9ZGVmYXVsdC5hc3B4JnNlYz1GYWxzZR4EXyFTQgICZGQCBw8PFgQfAAVLDQoJCQkJPHNwYW4+QmVsZ2llPC9zcGFuPg0KCQkJCTxzcGFuIGNsYXNzPSJ0aXAgc2tpbm55Ij5CZWxnaXVtPC9zcGFuPg0KCQkJHwIFTGh0dHA6Ly93d3cubWVnYWJ1cy5jb20vbGFuZ3VhZ2UuYXNoeD9jbj1iZSZsbj1ubCZwYXRoPWRlZmF1bHQuYXNweCZzZWM9RmFsc2VkZAIJDw8WBB8ABUM8IS0tIG1wX3RyYW5zX2Rpc2FibGVfc3RhcnQgLS0+QmVsZ2nDqzwhLS0gbXBfdHJhbnNfZGlzYWJsZV9lbmQgLS0+HwIFTGh0dHA6Ly93d3cubWVnYWJ1cy5jb20vbGFuZ3VhZ2UuYXNoeD9jbj1iZSZsbj1ubCZwYXRoPWRlZmF1bHQuYXNweCZzZWM9RmFsc2VkZAILDw8WBB8ABUQ8IS0tIG1wX3RyYW5zX2Rpc2FibGVfc3RhcnQgLS0+QmVsZ2lxdWU8IS0tIG1wX3RyYW5zX2Rpc2FibGVfZW5kIC0tPh8CBUxodHRwOi8vd3d3Lm1lZ2FidXMuY29tL2xhbmd1YWdlLmFzaHg/Y249YmUmbG49ZnImcGF0aD1kZWZhdWx0LmFzcHgmc2VjPUZhbHNlZGQCDQ8PFgQfAAVNDQoJCQkJPHNwYW4+RnJhbmNhaXNlPC9zcGFuPg0KCQkJCTxzcGFuIGNsYXNzPSJ0aXAgc2tpbm55Ij5GcmFuY2U8L3NwYW4+DQoJCQkfAgVMaHR0cDovL3d3dy5tZWdhYnVzLmNvbS9sYW5ndWFnZS5hc2h4P2NuPWZyJmxuPWZyJnBhdGg9ZGVmYXVsdC5hc3B4JnNlYz1GYWxzZWRkAg8PDxYEHwAFTA0KCQkJCTxzcGFuPkRldXRzY2g8L3NwYW4+DQoJCQkJPHNwYW4gY2xhc3M9InRpcCBza2lubnkiPkdlcm1hbnk8L3NwYW4+DQoJCQkfAgVMaHR0cDovL3d3dy5tZWdhYnVzLmNvbS9sYW5ndWFnZS5hc2h4P2NuPWRlJmxuPWRlJnBhdGg9ZGVmYXVsdC5hc3B4JnNlYz1GYWxzZWRkAhEPDxYEHwAFUw0KCQkJCTxzcGFuPk5lZGVybGFuZHM8L3NwYW4+DQoJCQkJPHNwYW4gY2xhc3M9InRpcCBza2lubnkiPk5ldGhlcmxhbmRzPC9zcGFuPg0KCQkJHwIFTGh0dHA6Ly93d3cubWVnYWJ1cy5jb20vbGFuZ3VhZ2UuYXNoeD9jbj1ubCZsbj1ubCZwYXRoPWRlZmF1bHQuYXNweCZzZWM9RmFsc2VkZAITDw8WBB8ABUoNCgkJCQk8c3Bhbj5Fc3Bhw7FhPC9zcGFuPg0KCQkJCTxzcGFuIGNsYXNzPSJ0aXAgc2tpbm55Ij5TcGFpbjwvc3Bhbj4NCgkJCR8CBUxodHRwOi8vd3d3Lm1lZ2FidXMuY29tL2xhbmd1YWdlLmFzaHg/Y249ZXMmbG49ZXMmcGF0aD1kZWZhdWx0LmFzcHgmc2VjPUZhbHNlZGQCFQ8PFgQfAAVGPCEtLSBtcF90cmFuc19kaXNhYmxlX3N0YXJ0IC0tPkNhc3RlbGxhbm88IS0tIG1wX3RyYW5zX2Rpc2FibGVfZW5kIC0tPh8CBUxodHRwOi8vd3d3Lm1lZ2FidXMuY29tL2xhbmd1YWdlLmFzaHg/Y249ZXMmbG49ZXMmcGF0aD1kZWZhdWx0LmFzcHgmc2VjPUZhbHNlZGQCFw8PFgQfAAVDPCEtLSBtcF90cmFuc19kaXNhYmxlX3N0YXJ0IC0tPkNhdGFsw6A8IS0tIG1wX3RyYW5zX2Rpc2FibGVfZW5kIC0tPh8CBUxodHRwOi8vd3d3Lm1lZ2FidXMuY29tL2xhbmd1YWdlLmFzaHg/Y249ZXMmbG49Y2EmcGF0aD1kZWZhdWx0LmFzcHgmc2VjPUZhbHNlZGQCGQ8PFgQfAAVJDQoJCQkJPHNwYW4+SXRhbGlhPC9zcGFuPg0KCQkJCTxzcGFuIGNsYXNzPSJ0aXAgc2tpbm55Ij5JdGFseTwvc3Bhbj4NCgkJCR8CBUxodHRwOi8vd3d3Lm1lZ2FidXMuY29tL2xhbmd1YWdlLmFzaHg/Y249aXQmbG49aXQmcGF0aD1kZWZhdWx0LmFzcHgmc2VjPUZhbHNlZGQCGw8PFgQfAAVODQoJCQkJPHNwYW4+VVNBPC9zcGFuPg0KCQkJCTxzcGFuIGNsYXNzPSJ0aXAgc2tpbm55Ij5Vbml0ZWQgU3RhdGVzPC9zcGFuPg0KCQkJHwIFQGh0dHA6Ly93d3cubWVnYWJ1cy5jb20vbGFuZ3VhZ2UuYXNoeD9jbj11cyZsbj1lbiZwYXRoPSZzZWM9RmFsc2VkZAIdDw8WBB8ABUM8IS0tIG1wX3RyYW5zX2Rpc2FibGVfc3RhcnQgLS0+RW5nbGlzaDwhLS0gbXBfdHJhbnNfZGlzYWJsZV9lbmQgLS0+HwIFQGh0dHA6Ly93d3cubWVnYWJ1cy5jb20vbGFuZ3VhZ2UuYXNoeD9jbj11cyZsbj1lbiZwYXRoPSZzZWM9RmFsc2VkZAIfDw8WBB8ABUM8IS0tIG1wX3RyYW5zX2Rpc2FibGVfc3RhcnQgLS0+RXNwYW5vbDwhLS0gbXBfdHJhbnNfZGlzYWJsZV9lbmQgLS0+HwIFQGh0dHA6Ly93d3cubWVnYWJ1cy5jb20vbGFuZ3VhZ2UuYXNoeD9jbj11cyZsbj1lcyZwYXRoPSZzZWM9RmFsc2VkZAIhDw8WBB8ABUsNCgkJCQk8c3Bhbj5DYW5hZGE8L3NwYW4+DQoJCQkJPHNwYW4gY2xhc3M9InRpcCBza2lubnkiPkNhbmFkYTwvc3Bhbj4JDQoJCQkfAgVAaHR0cDovL3d3dy5tZWdhYnVzLmNvbS9sYW5ndWFnZS5hc2h4P2NuPWNhJmxuPWVuJnBhdGg9JnNlYz1GYWxzZWRkAiMPDxYEHwAFQzwhLS0gbXBfdHJhbnNfZGlzYWJsZV9zdGFydCAtLT5FbmdsaXNoPCEtLSBtcF90cmFuc19kaXNhYmxlX2VuZCAtLT4fAgVAaHR0cDovL3d3dy5tZWdhYnVzLmNvbS9sYW5ndWFnZS5hc2h4P2NuPWNhJmxuPWVuJnBhdGg9JnNlYz1GYWxzZWRkAiUPDxYEHwAFRTwhLS0gbXBfdHJhbnNfZGlzYWJsZV9zdGFydCAtLT5GcmFuw6dhaXM8IS0tIG1wX3RyYW5zX2Rpc2FibGVfZW5kIC0tPh8CBUBodHRwOi8vd3d3Lm1lZ2FidXMuY29tL2xhbmd1YWdlLmFzaHg/Y249Y2EmbG49ZnImcGF0aD0mc2VjPUZhbHNlZGQCDA9kFgQCAQ9kFgJmD2QWGAIFD2QWAgIBDxYCHgdWaXNpYmxlaGQCBw8PFgIfAAUBMRYCHgpvbktleVByZXNzBRxyZXR1cm4gSXNOdW1lcmljKGV2ZW50LHRoaXMpZAIJDxYCHwRnFgICAw8PZBYCHwUFHHJldHVybiBJc051bWVyaWMoZXZlbnQsdGhpcylkAgsPFgIfBGcWAgIDDw9kFgIfBQUccmV0dXJuIElzTnVtZXJpYyhldmVudCx0aGlzKWQCDw8WAh8EZxYCZg8WBB4FY2xhc3MFF3N0YXRlcHJvdmluY2UgIGNsZWFyZml4HgVzdHlsZQUZYmFja2dyb3VuZC1jb2xvcjojRTRFNEU0OxYGAgEPDxYCHwAFB0NvdW50cnlkZAIDDxAPFgYeBVdpZHRoGwAAAAAAgFxAAQAAAB4LXyFEYXRhQm91bmRnHwMCgAJkEBULA0FsbAdCZWxnaXVtB0VuZ2xhbmQGRnJhbmNlB0dlcm1hbnkFSXRhbHkLTmV0aGVybGFuZHMTUmVwdWJsaWMgb2YgSXJlbGFuZAhTY290bGFuZAVTcGFpbgVXYWxlcxULATABNQExATYBOAIxMQE3ATQBMgE5ATMUKwMLZ2dnZ2dnZ2dnZ2cWAWZkAgUPFgIfBGcWAgIBDxYCHglpbm5lcmh0bWwFpAJtZWdhYnVzLmNvbSBoYXMgY29tZSBhIGxvbmcgd2F5IHNpbmNlIGl0cyBsYXVuY2ggaW4gMjAwMywgYW5kIHdlIGFyZSBub3cgcHJvdWQgdG8gc2VydmUgb3ZlciAxMDAgZGVzdGluYXRpb25zIGluIHRoZSBVSyBhbmQgTWFpbmxhbmQgRXVyb3BlLiBUbyBtYWtlIG91ciBpbmNyZWFzaW5nbHkgbG9uZyBvcmlnaW4gbGlzdCBlYXNpZXIgdG8gbmF2aWdhdGUgd2UgaGF2ZSBhZGRlZCB0aGlzIG5ldyBvcHRpb25hbCBjb3VudHJ5IGZpbHRlci4gV2UgaG9wZSB5b3UgZmluZCB0aGlzIG5ldyBmZWF0dXJlIGhlbHBmdWwuZAIVDxAPFgQfCWceB0VuYWJsZWRnZBAVugEGU2VsZWN0CEFiZXJkZWVuC0FiZXJ5c3R3eXRoBkFtaWVucwlBbXN0ZXJkYW0GQW5nZXJzB0FudHdlcnAIQXZpZW1vcmUHQXZpZ25vbglBeG1pbnN0ZXIHQmFuYnVyeQlCYXJjZWxvbmEIQmFybnNsZXkIQmF0aCBTcGEHQmVkZm9yZAZCZXJsaW4KQmlybWluZ2hhbSBCaXJtaW5naGFtIEludGVybmF0aW9uYWwgQWlycG9ydAlCbGFja2J1cm4HQm9sb2duYQZCb2x0b24IQm9yZGVhdXgHQm91cmdlcwtCb3VybmVtb3V0aAhCcmFkZm9yZAZCcmVtZW4IQnJpZ2h0b24HQnJpc3RvbA9CcmlzdG9sIChBenRlYykZQnJpc3RvbCAoQ3JpYmJzIENhdXNld2F5KRBCcmlzdG9sIChGaWx0b24pC0JyaXN0b2wgVVdFEkJyaXZlLWxhLUdhaWxsYXJkZQhCcnVzc2VscwhDYW1ib3JuZQlDYW1icmlkZ2UKQ2FudGVyYnVyeQdDYXJkaWZmCENhcmxpc2xlCkNhcm1hcnRoZW4KQ2FzdGxlZm9yZA1DaGF0ZWxsZXJhdWx0CkNoZWx0ZW5oYW0HQ2hlc3RlcgxDaGVzdGVyZmllbGQQQ2xlcm1vbnQgRmVycmFuZApDb2xjaGVzdGVyB0NvbG9nbmUIQ292ZW50cnkHQ3Jhd2xleQtDdW1iZXJuYXVsZAdDd21icmFuCERhdmVudHJ5BURlcmJ5BURpam9uCURvbmNhc3RlcghEb3J0bXVuZAZEdW5kZWULRHVuZmVybWxpbmUMRWFzdCBEZXJlaGFtFUVhc3QgTWlkbGFuZHMgUGFya3dheQlFZGluYnVyZ2gRRWRpbmJ1cmdoIEFpcnBvcnQGRXhldGVyB0ZhbGtpcmsLRmVsZGtpcmNoZW4IRmxvcmVuY2UQRnJhbmtmdXJ0IC8gTWFpbgVHZW5vYQRHZW50B0dsYXNnb3cKR2xvdWNlc3RlcglHb3R0aW5nZW4IR3JhbnRoYW0HR3JpbXNieRRIYWxiZWF0aCBJbnRlcmNoYW5nZQdIYW1idXJnCEhhbm5vdmVyBkhhdmFudAxIaWdoIFd5Y29tYmUHSG9uaXRvbgxIdWRkZXJzZmllbGQESHVsbA1JbnZlcmtlaXRoaW5nCUludmVybmVzcwdJcHN3aWNoBkthc3NlbAlLZXR0ZXJpbmcKS2luZ3MgTHlubgdLaW5yb3NzE0xhIFNwZXppYSAoU2FyemFuYSkITGFtcGV0ZXIJTGFuY2FzdGVyCExlIEhhdnJlB0xlIE1hbnMGTGVlZHMgCUxlaWNlc3RlcgdMZWlwemlnBUxpbGxlB0xpbW9nZXMHTGluY29sbglMaXZlcnBvb2wGTG9uZG9uDExvdWdoYm9yb3VnaAVMdXRvbgRMeW9uCk1hbmNoZXN0ZXIJTWFyc2VpbGxlBE1ldHoNTWlkZGxlc2Jyb3VnaAVNaWxhbg1NaWx0b24gS2V5bmVzBk11bmljaAZOYW50ZXMGTmFwbGVzD05ld2Fyay1vbi1UcmVudAdOZXdidXJ5CU5ld2Nhc3RsZQdOZXdwb3J0B05ld3F1YXkMTmV3dG9uIEFiYm90C05vcnRoYW1wdG9uB05vcndpY2giTm9yd2ljaCwgVW5pdmVyc2l0eSBvZiBFYXN0IEFuZ2xpYQpOb3R0aW5naGFtCU51cmVtYnVyZwZPeGZvcmQFUGFkdWEIUGFpZ250b24FUGFyaXMNUGVtYnJva2UgRG9jawhQZW56YW5jZQZQZXJ0aCAMUGV0ZXJib3JvdWdoBFBpc2EJUGl0bG9jaHJ5CFBseW1vdXRoCFBvaXRpZXJzBVBvb2xlClBvcnRzbW91dGgIUHJlc3RvbiAHUmVhZGluZwdSZWRydXRoBVJlaW1zBlJlbm5lcwRSb21lCFJvc3NsYXJlCVJvdHRlcmRhbQVSb3VlbgVSdWdieQlTYWxpc2J1cnkKU2N1bnRob3JwZQlTaGVmZmllbGQFU2llbmELU2lsdmVyc3RvbmULU291dGhhbXB0b24TU291dGhhbXB0b24gQWlycG9ydAdTdCBFcnRoClN0IEV0aWVubmUIU3RpcmxpbmcJU3RvY2twb3J0DlN0b2tlLU9uLVRyZW50ClN0cmFzYm91cmcJU3R1dHRnYXJ0ClN1bmRlcmxhbmQHU3dhbnNlYQdTd2luZG9uB1RhdW50b24IVGhldGZvcmQHVG9ycXVheQZUb3Vsb24IVG91bG91c2UFVG91cnMJVG93Y2VzdGVyBVR1cmluBlZlbmljZQZWZXJvbmEWV2FrZWZpZWxkL1dvb2xsZXkgRWRnZQpXYXJyaW5ndG9uCFdleW1vdXRoBVdpZ2FuCldpbmNoZXN0ZXIJV29yY2VzdGVyCFdvcnRoaW5nD1llb3ZpbCBKdW5jdGlvbgVZb3JrIBW6AQItMQExAzE0MAMxODUDMTEwAzIzMwMxMzMBMgMyMDYBMwE0AzE3MAE1ATYBNwMxOTcBOAE5AzEyOAMyMTkCMTADMjM1AzI0MgIxMQIxMgMxOTIDMTQzAjEzAzIyNQMyMjYDMjI3AjE0AzE3MgMxMTICMTYCMTcCMTkCMjACMjECMjICMjMDMjM4AjI0AzEzMAIyNQMyNDQDMTIyAzEzNQIyNwMxNDQDMTI1AjI5AzE2MgIzMAMyNDYCMzEDMTkzAjMyAzEyNgMxMTkCMzMCMzQCMzUCMzYDMTI3AzIxMAMyMjMDMTg4AzIyMAMxMjQCMzgCMzkDMTk1AzE3NwMxNzQDMTM4AzE5MQMxOTQCNDIDMTQ1AjQ0AjQ1AjQ2AjQ4AjQ5AzEyMwMxOTYDMTc4AzEyMAI1MQMyMjEDMTM5AzExNgMyNDcDMjM0AjUyAjUzAzE5OAMxMzIDMTcxAzE3NQI1NAI1NgI1NwMxNDEDMjAwAjU4AzIyOQMyNDECNTkDMTg3AjYwAzE5MAMyMzEDMjEyAzE3NgI2MgI2MwI2NAI2NQMxNTADMTY2AjY2AjY3AjY4AzE5OQI3MQMyMTcCNzIDMTEzAjczAjc0Ajc1AzEyMQMyMjICNzYCNzcDMjM3Ajc4Ajc5AjgwAjgxAjgyAzIzOQMyMzIDMTg2AjgzAzEzNAMyNDgCODQCODYCODgCOTADMjI0AjkxAjkzAzEwOAMxNjUDMjQ1Ajk1AzE2NAMxMTgDMjA5AzE4OQI5NgI5NwI5OAMxMDADMTA5AzEwMQMyMzADMTczAzIzNgMxNjcDMjE0AzIxNgMyMTUDMTAyAzEwMwMxMDQDMTI5AzEwNQMxMzYDMTQyAzEwNgMxMDcUKwO6AWdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZxYBAmZkAhcPDxYCHwAFDVRyYXZlbGxpbmcgdG9kZAIbDxAPFgQfC2cfCWdkEBVuBlNlbGVjdAhBYmVyZGVlbgtBYmVyeXN0d3l0aAZBbWllbnMJQW1zdGVyZGFtB0FudHdlcnAIQXZpZW1vcmUJQXhtaW5zdGVyCUJhcmNlbG9uYQhCYXRoIFNwYQpCaXJtaW5naGFtIEJpcm1pbmdoYW0gSW50ZXJuYXRpb25hbCBBaXJwb3J0BkJvbHRvbgtCb3VybmVtb3V0aAhCcmFkZm9yZAdCcmlzdG9sC0JyaXN0b2wgVVdFEkJyaXZlLWxhLUdhaWxsYXJkZQhCcnVzc2VscwhDYW1ib3JuZQtDYW1wYmVsdG93bgdDYXJkaWZmCENhcmxpc2xlCkNhcm1hcnRoZW4KQ2hlbHRlbmhhbQxDaGVzdGVyZmllbGQHQ29sb2duZQhDb3ZlbnRyeQtDdW1iZXJuYXVsZAdDd21icmFuBURlcmJ5CURvbmNhc3RlcgZEdW5kZWULRHVuZmVybWxpbmUVRWFzdCBNaWRsYW5kcyBQYXJrd2F5CUVkaW5idXJnaAZFeGV0ZXIHRmFsa2lyawVHZW5vYQRHZW50B0dsYXNnb3cKR2xvdWNlc3RlchRIYWxiZWF0aCBJbnRlcmNoYW5nZQZIYXZhbnQHSG9uaXRvbgxIdWRkZXJzZmllbGQESHVsbAlJbnZlcmFyYXkNSW52ZXJrZWl0aGluZwlJbnZlcm5lc3MHS2lucm9zcxNMYSBTcGV6aWEgKFNhcnphbmEpCExhbXBldGVyCUxhbmNhc3RlcgZMZWVkcyAJTGVpY2VzdGVyBUxpbGxlB0xpbW9nZXMJTGl2ZXJwb29sDExvY2hnaWxwaGVhZAxMb3VnaGJvcm91Z2gETHlvbgpNYW5jaGVzdGVyDU1pZGRsZXNicm91Z2gFTWlsYW4NTWlsdG9uIEtleW5lcwlOZXdjYXN0bGUHTmV3cG9ydAdOZXdxdWF5DE5ld3RvbiBBYmJvdAdOb3J3aWNoIk5vcndpY2gsIFVuaXZlcnNpdHkgb2YgRWFzdCBBbmdsaWEKTm90dGluZ2hhbQRPYmFuBk94Zm9yZAhQYWlnbnRvbgVQYXJpcw1QZW1icm9rZSBEb2NrCFBlbnphbmNlBlBlcnRoIAlQaXRsb2NocnkIUGx5bW91dGgFUG9vbGUKUG9ydHNtb3V0aAhQcmVzdG9uIAdSZWRydXRoBFJvbWUIUm9zc2xhcmUJUm90dGVyZGFtBVJ1Z2J5CVNhbGlzYnVyeQpTY3VudGhvcnBlCVNoZWZmaWVsZAVTaWVuYQtTaWx2ZXJzdG9uZQtTb3V0aGFtcHRvbgdTdCBFcnRoCFN0aXJsaW5nClN1bmRlcmxhbmQHU3dhbnNlYQdTd2luZG9uB1RhcmJlcnQHVG9ycXVheQhUb3Vsb3VzZQVUdXJpbhZXYWtlZmllbGQvV29vbGxleSBFZGdlCFdleW1vdXRoCVdvcmNlc3Rlcg9ZZW92aWwgSnVuY3Rpb24FWW9yayAVbgItMQExAzE0MAMxODUDMTEwAzEzMwEyATMDMTcwATYBOAE5AjEwAjExAjEyAjEzAjE0AzE3MgMxMTICMTYCMTgCMjACMjECMjICMjQCMjUDMTM1AjI3AzEyNQIyOQIzMAIzMQIzMgMxMjYCMzMCMzQCMzYDMTI3AzIyMAMxMjQCMzgCMzkDMTM4AjQyAjQ0AjQ1AjQ2AjQ3AjQ4AjQ5AjUxAzIyMQMxMzkDMTE2AjUyAjUzAzEzMgMxNzECNTQCNTUCNTcDMjAwAjU4AjU5AzE4NwI2MAI2MwI2NAI2NQMxNTACNjYCNjcCNjgCNjkCNzECNzIDMTEzAjczAjc0Ajc1Ajc2Ajc3Ajc4Ajc5AjgwAjgyAzE4NgI4MwMxMzQCODQCODYCODgCOTADMjI0AjkxAjkzAzE2NQI5NQI5NgI5NwI5OAI5OQMxMDEDMTczAzIxNAMxMDIDMTA0AzEzNgMxMDYDMTA3FCsDbmdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnFgFmZAIdDxYCHwRnFgICBA8QDxYCHwtoZGQWAGQCIQ8PFgQfAQUWIGRhdGVwaWNrZXIgZGF0ZXBpY2tlch8DAgJkZAIlDw8WBh8BBRYgZGF0ZXBpY2tlciBkYXRlcGlja2VyHwtoHwMCAmRkAicPFgIfBGdkAgMPDxYEHwAFE01hbmFnZSBSZXNlcnZhdGlvbnMfAgUZfi9NYW5hZ2VSZXNlcnZhdGlvbnMuYXNweGRkAhAPZBYCZg8WAh4QZGF0YS1iYW5uZXItc3BlYwUgZmxhc2hiYW5uZXIvMV9zbGlkZXNob3ctZGF0YS54bWxkAhQPZBYCAgMPZBYCZg9kFgICAQ8WAh4LXyFJdGVtQ291bnQCAhYEZg9kFggCAQ8WAh8ABRZtZWdhYnVzLmNvbSBQYXJpcyBzdG9wZAIFDxYCHwAFF0ZyaWRheSwgMjIgSmFudWFyeSAyMDE2ZAIHDxYCHwAFaEFsbCBtZWdhYnVzLmNvbSBjb2FjaGVzIGluIFBhcmlzIHVzZSB0aGUgc3RvcCBhdCANCjxicj48YnI+DQpRdWFpIERlIFNlaW5lIEFycmV0IE1lZ2FidXMNCjxicj4yMDggUXVhLi4uZAIJDw8WBB8ABQlSZWFkIG1vcmUfAgUnfi9TZXJ2aWNlQWR2aXNvcnkuYXNweD9pZD0zNjUmaG9tZT10cnVlZGQCAQ9kFggCAQ8WAh8ABRptZWdhYnVzLmNvbSBBbXN0ZXJkYW0gc3RvcGQCBQ8WAh8ABRpUaHVyc2RheSwgMDQgRmVicnVhcnkgMjAxNmQCBw8WAh8ABWhtZWdhYnVzLmNvbSBzdG9wIGluIEFtc3RlcmRhbSBpcyBub3cgb3V0c2lkZSBTbG90ZXJkaWprIFJhaWwgU3RhdGlvbiBpbiBSYWRhcndlZy4gDQo8YnI+PGJyPg0KPGlmcmFtZS4uLmQCCQ8PFgQfAAUJUmVhZCBtb3JlHwIFJ34vU2VydmljZUFkdmlzb3J5LmFzcHg/aWQ9Mzc1JmhvbWU9dHJ1ZWRkAhYPZBYCAgEPFgIfBGdkGAIFKFNlcnZpY2VBZHZpc29yeUxpc3QxJG12U2VydmljZUFkdmlzb3JpZXMPD2RmZAUXVXNlclN0YXR1cyRtdlVzZXJTdGF0dXMPD2RmZAnrtoWhUV08HGxJCKNtC4l8x9bt" />
+
+<script type="text/javascript">var body=document.getElementsByTagName('body')[0];body.className='';</script>
+<script type="text/javascript">
+//<![CDATA[
+
+(function($){
+	function getVal(sName) {
+		var el = document.getElementById(sName);
+		if (el !== null) {
+			var val = parseInt(el.value, 10);
+			if (!isNaN(val))	{ return val; }
+		}
+		return 0;
+	}
+
+	function reset(sVal){
+		 var el = document.getElementById(sVal);
+		if (el !== null){
+			el.disabled = true;
+			el.options.length = 0;
+		}
+	}
+
+	function resetForm(){
+		$('#JourneyPlanner_ddlLeavingFrom').val('-1').attr('disabled','disabled');
+		reset('JourneyPlanner_ddlTravellingTo');
+		reset('JourneyPlanner_ddlTravellingBy');
+		$('#JourneyPlanner_txtOutboundDate').val('').attr('disabled','disabled');
+		$('#JourneyPlanner_txtReturnDate').val('').attr('disabled','disabled');
+	}
+
+	function validateJourneySearchForm(sContainer) {
+		if (getVal('JourneyPlanner_txtNumberOfPassengers') + getVal('JourneyPlanner_txtNumberOfConcessionPassengers') + getVal('JourneyPlanner_txtNumberOfNUSPassengers') == 0){
+			resetForm();
+	  }
+		else{
+			$('#JourneyPlanner_ddlLeavingFrom').removeAttr('disabled','');
+		}
+	}
+
+	$(function(){
+		$('#searchandbuy #JourneyPlanner_txtNumberOfPassengers, #searchandbuy #JourneyPlanner_txtNumberOfNUSPassengers, #searchandbuy #JourneyPlanner_txtNumberOfConcessionPassengers').live('keyup', function(){ validateJourneySearchForm(); });
+		if ($('#JourneyPlanner_ddlLeavingFrom').val() + ','+ $('#JourneyPlanner_ddlTravellingTo').val() !=  $('#JourneyPlanner_hdnSelected').val()){
+			$('#JourneyPlanner_txtNumberOfPassengers').val('0');
+			$('#JourneyPlanner_txtNumberOfConcessionPassengers').val('0');
+			$('#JourneyPlanner_txtNumberOfNUSPassengers').val('0');
+			resetForm();
+		}
+		validateJourneySearchForm();
+	});
+
+window.onbeforeunload = function () {}
+
+})(jQuery);
+//]]>
+</script>
+<script language="javascript"> function IsNumeric(e,elem) { var currentText = elem.value;  if(window.event) { keynum = e.keyCode; } else if(e.which) { keynum = e.which; } return  (keynum >= 48 && keynum <= 57)  || (keynum == 45 && currentText == '')  || (keynum == 118)  || (keynum == 8) || (keynum == 127);  } </script>
+<script type="text/javascript">
+//<![CDATA[
+jQuery(function(){ jQuery('#JourneyPlanner_txtOutboundDate').datepicker({dateFormat: 'dd/mm/yy', firstDay: 1,buttonImage: "/images/icon_calendar.gif", showOn: "both", buttonImageOnly: true,disabled: true}); });
+jQuery(function(){ jQuery('#JourneyPlanner_txtReturnDate').datepicker({dateFormat: 'dd/mm/yy', firstDay: 1,buttonImage: "/images/icon_calendar.gif", showOn: "both", buttonImageOnly: true,disabled: true}); });
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=NrirCZZQPXohX-Iyl1YOLAdItG4yRa8lyMEnylgIRLabqeMqRYKQshnZzCN2jsCc9oFLvsl3-g6trGxKtQQtFvABVzjE6K_Cg3zPwos4oLpbTOXxQH9uLW81CfuURsUEQCoMAmqELop7Q4Q7BwL88Vam3yY1&amp;t=ffffffffb868b5f4" type="text/javascript"></script><span id="EUCookieValidator1" xmlns:uc1="http://www.emperordesign.co.uk"></span><div id="GB_overlay" style="width: 100%; height: 167px;">&nbsp;<div id="GB_window" class="GB_Window" style="margin: 0 auto;position: relative;width: 1000px;"><div><table class="header"><tbody><tr><td class="caption">Cookie Policy</td></tr></tbody></table></div><div class="content"><iframe frameborder="0" name="GB_frame" class="GB_frame" style="width: 1000px; height: 105px;" src="/eu-cookie-message.aspx?type=inline"></iframe></div></div></div><div id="ctl16_UpdateProgress1" style="display:none;">
+	
+        <div style="display: block; height: 0px">
+            <div id="CanvasLoaderBackground" class="canvas_loader_background"> &nbsp;</div>
+            <div id="canvasloader-container" style="position:absolute; text-align:center; width:100%; z-index:10000000">
+            	<img src="images/mega-anim1.gif" id="ctl16_Img1" style="margin:320px auto; width:245px; height:179px;" />
+            </div>
+        </div>
+    
+</div>
+<span xmlns:empcms="http://www.emperordesign.co.uk"></span><div id="wrapper"><div id="imageLoader"><img src="images/home-on.png" alt="Home" /><img src="images/bus-on.png" alt="Bus Stops" /><img src="images/service-on.png" alt="Service Advisories" /><img src="images/customer-on.png" alt="Customer Service" /></div><div id="header"><div class="toplinks"><div class="topcurve_left"> </div><div class="topcurve_middle">
+
+<p><span id="UserStatus_lblWelcome">Welcome, You are not logged in.</span></p>
+
+<ul>
+
+    <li><a id="UserStatus_hypLogIn" href="login.aspx">Login</a></li>
+    <li class="last"><a id="UserStatus_hypRegister" href="register.aspx">Register</a></li>
+   
+</ul>
+
+<p class="view_basket"><a id="UserStatus_hypBasket" href="ViewBasket.aspx">View  Basket (0)</a></p></div><div class="topcurve_right"> </div></div></div><div id="container"><div class="mainContent"><a href="Default.aspx" id="logo"><img src="images/logo.png" alt="megabus.com" title="megabus.com" /></a>
+
+<div class="select-ctry">
+	<span class="currentlanguage"><span id="CountryLinks1_lblLanguageTitle">Language:</span> <span id="CountryLinks1_lblCurrentLanguage">English</span></span>
+
+	<ul class="flags">
+		<li>
+			<a id="CountryLinks1_hypUK" class="flag-icon flag-uk tooltip active active" href="http://www.megabus.com/language.ashx?cn=uk&amp;ln=en&amp;path=default.aspx&amp;sec=False"><span>United Kingdom</span>
+				<span class="tip skinny">United Kingdom</span>
+			</a>
+		</li>
+		<li>
+			<a id="CountryLinks1_hypBE" class="flag-icon flag-be tooltip" href="http://www.megabus.com/language.ashx?cn=be&amp;ln=nl&amp;path=default.aspx&amp;sec=False">
+				<span>Belgie</span>
+				<span class="tip skinny">Belgium</span>
+			</a>
+			<div class="lang tab-left"  style="display:none;">
+				<ul style="display:none;">
+					<li>
+						<a id="CountryLinks1_LanguageLink1" href="http://www.megabus.com/language.ashx?cn=be&amp;ln=nl&amp;path=default.aspx&amp;sec=False"><!-- mp_trans_disable_start -->België<!-- mp_trans_disable_end --></a>
+					</li>
+					<li>
+						<a id="CountryLinks1_LanguageLink2" href="http://www.megabus.com/language.ashx?cn=be&amp;ln=fr&amp;path=default.aspx&amp;sec=False"><!-- mp_trans_disable_start -->Belgique<!-- mp_trans_disable_end --></a>
+					</li>
+				</ul>
+			</div>
+		</li>
+		<li>
+			<a id="CountryLinks1_hypFR" class="flag-icon flag-fr tooltip" href="http://www.megabus.com/language.ashx?cn=fr&amp;ln=fr&amp;path=default.aspx&amp;sec=False">
+				<span>Francaise</span>
+				<span class="tip skinny">France</span>
+			</a>
+		</li>
+		<li>
+			<a id="CountryLinks1_LanguageLink3" class="flag-icon flag-de tooltip" href="http://www.megabus.com/language.ashx?cn=de&amp;ln=de&amp;path=default.aspx&amp;sec=False">
+				<span>Deutsch</span>
+				<span class="tip skinny">Germany</span>
+			</a>
+		</li>
+
+		<li>
+			<a id="CountryLinks1_hypNL" class="flag-icon flag-nl tooltip" href="http://www.megabus.com/language.ashx?cn=nl&amp;ln=nl&amp;path=default.aspx&amp;sec=False">
+				<span>Nederlands</span>
+				<span class="tip skinny">Netherlands</span>
+			</a>
+		</li>
+		
+		<li>
+			<a id="CountryLinks1_LanguageLink4" class="flag-icon flag-es tooltip" href="http://www.megabus.com/language.ashx?cn=es&amp;ln=es&amp;path=default.aspx&amp;sec=False">
+				<span>España</span>
+				<span class="tip skinny">Spain</span>
+			</a>
+			<div class="lang"  style="display:none;">
+				<ul style="display:none;">
+						<li>
+						<a id="CountryLinks1_LanguageLink5" href="http://www.megabus.com/language.ashx?cn=es&amp;ln=es&amp;path=default.aspx&amp;sec=False"><!-- mp_trans_disable_start -->Castellano<!-- mp_trans_disable_end --></a>
+					</li>
+					<li>
+						<a id="CountryLinks1_LanguageLink6" href="http://www.megabus.com/language.ashx?cn=es&amp;ln=ca&amp;path=default.aspx&amp;sec=False"><!-- mp_trans_disable_start -->Català<!-- mp_trans_disable_end --></a>
+					</li>
+				</ul>
+			</div>
+		</li>
+		
+		<li>
+			<a id="CountryLinks1_LanguageLink7" class="flag-icon flag-it tooltip" href="http://www.megabus.com/language.ashx?cn=it&amp;ln=it&amp;path=default.aspx&amp;sec=False">
+				<span>Italia</span>
+				<span class="tip skinny">Italy</span>
+			</a>
+		</li>
+
+		<li class="seperator">
+			<a id="CountryLinks1_hypUS" class="flag-icon flag-us tooltip" href="http://www.megabus.com/language.ashx?cn=us&amp;ln=en&amp;path=&amp;sec=False">
+				<span>USA</span>
+				<span class="tip skinny">United States</span>
+			</a>
+			<div class="lang" style="display:none;">
+				<ul>
+					<li>
+						<a id="CountryLinks1_HyperLink4" href="http://www.megabus.com/language.ashx?cn=us&amp;ln=en&amp;path=&amp;sec=False"><!-- mp_trans_disable_start -->English<!-- mp_trans_disable_end --></a>
+					</li>
+					<li>
+						<a id="CountryLinks1_HyperLink5" href="http://www.megabus.com/language.ashx?cn=us&amp;ln=es&amp;path=&amp;sec=False"><!-- mp_trans_disable_start -->Espanol<!-- mp_trans_disable_end --></a>
+					</li>
+				</ul>
+			</div>
+		</li>
+		<li>
+			<a id="CountryLinks1_hypCA" class="flag-icon flag-ca tooltip" href="http://www.megabus.com/language.ashx?cn=ca&amp;ln=en&amp;path=&amp;sec=False">
+				<span>Canada</span>
+				<span class="tip skinny">Canada</span>	
+			</a>
+			<div class="lang" style="display:none;">
+				<ul>
+					<li>
+						<a id="CountryLinks1_HyperLink7" href="http://www.megabus.com/language.ashx?cn=ca&amp;ln=en&amp;path=&amp;sec=False"><!-- mp_trans_disable_start -->English<!-- mp_trans_disable_end --></a>
+					</li>
+					<li>
+						<a id="CountryLinks1_HyperLink8" href="http://www.megabus.com/language.ashx?cn=ca&amp;ln=fr&amp;path=&amp;sec=False"><!-- mp_trans_disable_start -->Français<!-- mp_trans_disable_end --></a>
+					</li>
+				</ul>
+			</div>
+		</li>
+	</ul>
+</div><div id="navigation"><div class="socialmedia"><img src="images/megabus-socialmedia-bg.png" alt="megabus.com" title="megabus.com" /><div id="socialmediaicons"><ul><li><a target="_blank" href="https://twitter.com/megabusuk"><img src="images/megabus-socialmedia-twitter.png" alt="twitter" title="twitter" /></a></li><li><a target="_blank" href="http://megabusuk.tumblr.com"><img src="images/megabus-socialmedia-tumbler.png" alt="tumblr" title="tumblr" /></a></li></ul></div></div><ul><li class="home"><a title="Home" href="Default.aspx"><span>Home</span></a></li><li class="BusStops"><a title="Bus stops" href="BusStops.aspx"><span>Bus stops</span></a></li><li class="ServiceAdvisories"><a title="Bus &amp; train service information" href="ServiceAdvisories.aspx"><span>Bus &amp; train service information</span></a></li><li class="CustomerService last&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;"><a title="Customer Services" href="useful-links.aspx"><span>Customer Services</span></a></li></ul></div><div class="cont_wraper"><div class="cont_topcurve">
+							 
+</div><div class="cont_middlecurve"><div class="insideBg"><div class="content_div"><div class="level1">
+<style>
+	.exceptionbanner{height:auto;padding:6px 0 6px 4px;color:#ffffff; color:#fff; font-weight:bold; font-size:11px;}
+	.exceptionbanner a{ color:#fff;}
+	.red_exception{background-color:#CC0000;}
+	.green_exception{background-color:#009900;}
+</style>
+
+<p style="color: red; font-size: 1.1em;"></p><div class="col1_2" style="margin-top:-3px;"><div class="searchBuy"><div class="searchBuyHeader">Search &amp; Buy</div>
+
+<script type="text/javascript">
+    (function ($) {
+        try {
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            prm.add_endRequest(function () {
+                BindControlEvents();
+            });
+        } catch (er) { }
+        $(document).ready(function () {
+            $(".btnSearch").click(function () {
+                $("select").focusout();
+            });
+            RemoveAltTags();
+            BindControlEvents();
+
+            $('.icon-help').mouseover(function () {
+                $('.ui_tooltip').hide();
+            });
+
+            $("input._tool_tip").focusin(function () {
+                var $iconHelp = $(this).parent().find('.icon-help');
+                $iconHelp.trigger('mouseover');
+                $('.ui_tooltip').css({ 'top': $iconHelp.offset().top - parseInt($(this).attr('top')) + 'px', 'left': $iconHelp.offset().left + 25 + 'px' });
+                $('.ui_tooltip').show();
+            });
+
+            $("input._tool_tip").focusout(function () {
+                var $iconHelp = $(this).parent().find('.icon-help');
+                $iconHelp.trigger('mouseout');
+            });
+        });
+
+        function BindControlEvents() {
+            RemoveAltTags();
+        }
+
+        function RemoveAltTags() {
+            $(".ui-datepicker-trigger").removeAttr("title");
+            $(".ui-datepicker-trigger").removeAttr("alt");
+        }
+
+    })(jQuery);
+</script>
+
+<div class="body">
+	<div id="searchandbuy" style="float: left">
+		<div class="searchandbuy_intro">
+			View schedules and buy seats. Select number of passengers, travel locations and
+			dates below:
+		</div>
+		<div class="updatePanel clearfix">
+			<div id="JourneyPlanner_UpdatePanel1">
+	
+					<!-- mp_trans_disable_start -->
+					<span id="JourneyPlanner_lblError" style="display: none;"></span>
+					<!-- mp_trans_disable_end -->
+					
+					<p>
+						&#160;</p>
+					<div class="clearfix">
+						<div class="left_col number_of_passengers">
+							<label for="JourneyPlanner_txtNumberOfPassengers" id="JourneyPlanner_lblNumberOfPassengers">
+								Number of Passengers
+								</label>
+						</div>
+						<div class="right_col">
+							<input name="JourneyPlanner$txtNumberOfPassengers" type="text" value="1" maxlength="2" id="JourneyPlanner_txtNumberOfPassengers" class="small _tool_tip" top="40" onKeyPress="return IsNumeric(event,this)" />
+                            <span class="tooltip icon-help">
+			                    <span class="tip">
+        <p>For journeys wholly within the UK and to/from Ireland, one child under 3 years, not occupying a seat can travel for free with one fare paying adult.</p>
+				<p>For all other journeys, all passengers including children and infants under 3 years must purchase a ticket.</p>
+			                    </span>
+		                    </span>
+						</div>
+						
+							<div class="left_col">
+								<label for="JourneyPlanner_txtNumberOfConcessionPassengers" id="JourneyPlanner_lblNumberOfConcessionPassengers">No. Concessions</label>
+							</div>
+							<div class="right_col">
+								<input name="JourneyPlanner$txtNumberOfConcessionPassengers" type="text" value="0" maxlength="2" id="JourneyPlanner_txtNumberOfConcessionPassengers" class="small _tool_tip" top="70" onKeyPress="return IsNumeric(event,this)" />
+                                <span class="tooltip icon-help">
+			                        <span class="tip">
+                                        <p>
+                                            Number of passengers travelling who hold Scottish Concessionary Entitlement Cards. Valid for concessionary travel for journeys wholly within Scotland.
+                                        </p>
+			                        </span>
+		                        </span>
+							</div>
+						
+						
+							<div class="left_col">
+								<label for="JourneyPlanner_txtNumberOfNUSPassengers" id="JourneyPlanner_lblNumberOfNUSPassengers">No. NUS Extra Cardholders</label>
+							</div>
+							<div class="right_col">
+								<input name="JourneyPlanner$txtNumberOfNUSPassengers" type="text" value="0" maxlength="2" id="JourneyPlanner_txtNumberOfNUSPassengers" class="small _tool_tip" top="42" onKeyPress="return IsNumeric(event,this)" />
+                                <span class="tooltip icon-help">
+			                        <span class="tip">
+                                        <p>                                            
+                                            Number of passengers travelling who hold NUS Extra cards. Valid for travel within UK only.
+                                        </p>
+			                        </span>
+		                        </span>
+							</div>
+						
+					</div>
+					
+
+                    <div id="JourneyPlanner_StateOrProvinceDiv" class="stateprovince  clearfix" style="background-color:#E4E4E4;">
+							<div class="mid_col">
+								<label for="JourneyPlanner_ddlLeavingFromState" id="JourneyPlanner_lblStateOrProvince">Country</label>
+							</div>
+							<div class="right_col">
+							
+								<select name="JourneyPlanner$ddlLeavingFromState" id="JourneyPlanner_ddlLeavingFromState">
+		<option selected="selected" value="0">All</option>
+		<option value="5">Belgium</option>
+		<option value="1">England</option>
+		<option value="6">France</option>
+		<option value="8">Germany</option>
+		<option value="11">Italy</option>
+		<option value="7">Netherlands</option>
+		<option value="4">Republic of Ireland</option>
+		<option value="2">Scotland</option>
+		<option value="9">Spain</option>
+		<option value="3">Wales</option>
+
+	</select>
+				
+				                <span id="JourneyPlanner_icon_new_tooltip" class="icon-new tooltip">
+									<span id="JourneyPlanner_icon_tooltiptext" class="tip">megabus.com has come a long way since its launch in 2003, and we are now proud to serve over 100 destinations in the UK and Mainland Europe. To make our increasingly long origin list easier to navigate we have added this new optional country filter. We hope you find this new feature helpful.</span>
+
+								</span>
+								
+							</div>
+						</div>
+					<div class="mid_col">
+						<label for="JourneyPlanner_ddlLeavingFrom" id="JourneyPlanner_lblLeavingFrom">Leaving from</label>
+					</div>
+					<div class="right_col">
+			
+						<input type="hidden" name="JourneyPlanner$hdnSelected" id="JourneyPlanner_hdnSelected" value="56,-1" />
+						<select name="JourneyPlanner$ddlLeavingFrom" id="JourneyPlanner_ddlLeavingFrom">
+		<option value="-1">Select</option>
+		<option value="1">Aberdeen</option>
+		<option value="140">Aberystwyth</option>
+		<option value="185">Amiens</option>
+		<option value="110">Amsterdam</option>
+		<option value="233">Angers</option>
+		<option value="133">Antwerp</option>
+		<option value="2">Aviemore</option>
+		<option value="206">Avignon</option>
+		<option value="3">Axminster</option>
+		<option value="4">Banbury</option>
+		<option value="170">Barcelona</option>
+		<option value="5">Barnsley</option>
+		<option value="6">Bath Spa</option>
+		<option value="7">Bedford</option>
+		<option value="197">Berlin</option>
+		<option value="8">Birmingham</option>
+		<option value="9">Birmingham International Airport</option>
+		<option value="128">Blackburn</option>
+		<option value="219">Bologna</option>
+		<option value="10">Bolton</option>
+		<option value="235">Bordeaux</option>
+		<option value="242">Bourges</option>
+		<option value="11">Bournemouth</option>
+		<option value="12">Bradford</option>
+		<option value="192">Bremen</option>
+		<option value="143">Brighton</option>
+		<option value="13">Bristol</option>
+		<option value="225">Bristol (Aztec)</option>
+		<option value="226">Bristol (Cribbs Causeway)</option>
+		<option value="227">Bristol (Filton)</option>
+		<option value="14">Bristol UWE</option>
+		<option value="172">Brive-la-Gaillarde</option>
+		<option value="112">Brussels</option>
+		<option value="16">Camborne</option>
+		<option value="17">Cambridge</option>
+		<option value="19">Canterbury</option>
+		<option value="20">Cardiff</option>
+		<option value="21">Carlisle</option>
+		<option value="22">Carmarthen</option>
+		<option value="23">Castleford</option>
+		<option value="238">Chatellerault</option>
+		<option value="24">Cheltenham</option>
+		<option value="130">Chester</option>
+		<option value="25">Chesterfield</option>
+		<option value="244">Clermont Ferrand</option>
+		<option value="122">Colchester</option>
+		<option value="135">Cologne</option>
+		<option value="27">Coventry</option>
+		<option value="144">Crawley</option>
+		<option value="125">Cumbernauld</option>
+		<option value="29">Cwmbran</option>
+		<option value="162">Daventry</option>
+		<option value="30">Derby</option>
+		<option value="246">Dijon</option>
+		<option value="31">Doncaster</option>
+		<option value="193">Dortmund</option>
+		<option value="32">Dundee</option>
+		<option value="126">Dunfermline</option>
+		<option value="119">East Dereham</option>
+		<option value="33">East Midlands Parkway</option>
+		<option value="34">Edinburgh</option>
+		<option value="35">Edinburgh Airport</option>
+		<option value="36">Exeter</option>
+		<option value="127">Falkirk</option>
+		<option value="210">Feldkirchen</option>
+		<option value="223">Florence</option>
+		<option value="188">Frankfurt / Main</option>
+		<option value="220">Genoa</option>
+		<option value="124">Gent</option>
+		<option value="38">Glasgow</option>
+		<option value="39">Gloucester</option>
+		<option value="195">Gottingen</option>
+		<option value="177">Grantham</option>
+		<option value="174">Grimsby</option>
+		<option value="138">Halbeath Interchange</option>
+		<option value="191">Hamburg</option>
+		<option value="194">Hannover</option>
+		<option value="42">Havant</option>
+		<option value="145">High Wycombe</option>
+		<option value="44">Honiton</option>
+		<option value="45">Huddersfield</option>
+		<option value="46">Hull</option>
+		<option value="48">Inverkeithing</option>
+		<option value="49">Inverness</option>
+		<option value="123">Ipswich</option>
+		<option value="196">Kassel</option>
+		<option value="178">Kettering</option>
+		<option value="120">Kings Lynn</option>
+		<option value="51">Kinross</option>
+		<option value="221">La Spezia (Sarzana)</option>
+		<option value="139">Lampeter</option>
+		<option value="116">Lancaster</option>
+		<option value="247">Le Havre</option>
+		<option value="234">Le Mans</option>
+		<option value="52">Leeds </option>
+		<option value="53">Leicester</option>
+		<option value="198">Leipzig</option>
+		<option value="132">Lille</option>
+		<option value="171">Limoges</option>
+		<option value="175">Lincoln</option>
+		<option value="54">Liverpool</option>
+		<option selected="selected" value="56">London</option>
+		<option value="57">Loughborough</option>
+		<option value="141">Luton</option>
+		<option value="200">Lyon</option>
+		<option value="58">Manchester</option>
+		<option value="229">Marseille</option>
+		<option value="241">Metz</option>
+		<option value="59">Middlesbrough</option>
+		<option value="187">Milan</option>
+		<option value="60">Milton Keynes</option>
+		<option value="190">Munich</option>
+		<option value="231">Nantes</option>
+		<option value="212">Naples</option>
+		<option value="176">Newark-on-Trent</option>
+		<option value="62">Newbury</option>
+		<option value="63">Newcastle</option>
+		<option value="64">Newport</option>
+		<option value="65">Newquay</option>
+		<option value="150">Newton Abbot</option>
+		<option value="166">Northampton</option>
+		<option value="66">Norwich</option>
+		<option value="67">Norwich, University of East Anglia</option>
+		<option value="68">Nottingham</option>
+		<option value="199">Nuremburg</option>
+		<option value="71">Oxford</option>
+		<option value="217">Padua</option>
+		<option value="72">Paignton</option>
+		<option value="113">Paris</option>
+		<option value="73">Pembroke Dock</option>
+		<option value="74">Penzance</option>
+		<option value="75">Perth </option>
+		<option value="121">Peterborough</option>
+		<option value="222">Pisa</option>
+		<option value="76">Pitlochry</option>
+		<option value="77">Plymouth</option>
+		<option value="237">Poitiers</option>
+		<option value="78">Poole</option>
+		<option value="79">Portsmouth</option>
+		<option value="80">Preston </option>
+		<option value="81">Reading</option>
+		<option value="82">Redruth</option>
+		<option value="239">Reims</option>
+		<option value="232">Rennes</option>
+		<option value="186">Rome</option>
+		<option value="83">Rosslare</option>
+		<option value="134">Rotterdam</option>
+		<option value="248">Rouen</option>
+		<option value="84">Rugby</option>
+		<option value="86">Salisbury</option>
+		<option value="88">Scunthorpe</option>
+		<option value="90">Sheffield</option>
+		<option value="224">Siena</option>
+		<option value="91">Silverstone</option>
+		<option value="93">Southampton</option>
+		<option value="108">Southampton Airport</option>
+		<option value="165">St Erth</option>
+		<option value="245">St Etienne</option>
+		<option value="95">Stirling</option>
+		<option value="164">Stockport</option>
+		<option value="118">Stoke-On-Trent</option>
+		<option value="209">Strasbourg</option>
+		<option value="189">Stuttgart</option>
+		<option value="96">Sunderland</option>
+		<option value="97">Swansea</option>
+		<option value="98">Swindon</option>
+		<option value="100">Taunton</option>
+		<option value="109">Thetford</option>
+		<option value="101">Torquay</option>
+		<option value="230">Toulon</option>
+		<option value="173">Toulouse</option>
+		<option value="236">Tours</option>
+		<option value="167">Towcester</option>
+		<option value="214">Turin</option>
+		<option value="216">Venice</option>
+		<option value="215">Verona</option>
+		<option value="102">Wakefield/Woolley Edge</option>
+		<option value="103">Warrington</option>
+		<option value="104">Weymouth</option>
+		<option value="129">Wigan</option>
+		<option value="105">Winchester</option>
+		<option value="136">Worcester</option>
+		<option value="142">Worthing</option>
+		<option value="106">Yeovil Junction</option>
+		<option value="107">York </option>
+
+	</select>
+		
+					</div>
+					<div class="mid_col">
+						<label for="JourneyPlanner_ddlTravellingTo" id="JourneyPlanner_lblTravellingTo">Travelling to</label>
+						
+					</div>
+					<div class="right_col">
+						<!-- mp_trans_schedule_disable_start -->
+						<select name="JourneyPlanner$ddlTravellingTo" id="JourneyPlanner_ddlTravellingTo">
+		<option selected="selected" value="-1">Select</option>
+		<option value="1">Aberdeen</option>
+		<option value="140">Aberystwyth</option>
+		<option value="185">Amiens</option>
+		<option value="110">Amsterdam</option>
+		<option value="133">Antwerp</option>
+		<option value="2">Aviemore</option>
+		<option value="3">Axminster</option>
+		<option value="170">Barcelona</option>
+		<option value="6">Bath Spa</option>
+		<option value="8">Birmingham</option>
+		<option value="9">Birmingham International Airport</option>
+		<option value="10">Bolton</option>
+		<option value="11">Bournemouth</option>
+		<option value="12">Bradford</option>
+		<option value="13">Bristol</option>
+		<option value="14">Bristol UWE</option>
+		<option value="172">Brive-la-Gaillarde</option>
+		<option value="112">Brussels</option>
+		<option value="16">Camborne</option>
+		<option value="18">Campbeltown</option>
+		<option value="20">Cardiff</option>
+		<option value="21">Carlisle</option>
+		<option value="22">Carmarthen</option>
+		<option value="24">Cheltenham</option>
+		<option value="25">Chesterfield</option>
+		<option value="135">Cologne</option>
+		<option value="27">Coventry</option>
+		<option value="125">Cumbernauld</option>
+		<option value="29">Cwmbran</option>
+		<option value="30">Derby</option>
+		<option value="31">Doncaster</option>
+		<option value="32">Dundee</option>
+		<option value="126">Dunfermline</option>
+		<option value="33">East Midlands Parkway</option>
+		<option value="34">Edinburgh</option>
+		<option value="36">Exeter</option>
+		<option value="127">Falkirk</option>
+		<option value="220">Genoa</option>
+		<option value="124">Gent</option>
+		<option value="38">Glasgow</option>
+		<option value="39">Gloucester</option>
+		<option value="138">Halbeath Interchange</option>
+		<option value="42">Havant</option>
+		<option value="44">Honiton</option>
+		<option value="45">Huddersfield</option>
+		<option value="46">Hull</option>
+		<option value="47">Inveraray</option>
+		<option value="48">Inverkeithing</option>
+		<option value="49">Inverness</option>
+		<option value="51">Kinross</option>
+		<option value="221">La Spezia (Sarzana)</option>
+		<option value="139">Lampeter</option>
+		<option value="116">Lancaster</option>
+		<option value="52">Leeds </option>
+		<option value="53">Leicester</option>
+		<option value="132">Lille</option>
+		<option value="171">Limoges</option>
+		<option value="54">Liverpool</option>
+		<option value="55">Lochgilphead</option>
+		<option value="57">Loughborough</option>
+		<option value="200">Lyon</option>
+		<option value="58">Manchester</option>
+		<option value="59">Middlesbrough</option>
+		<option value="187">Milan</option>
+		<option value="60">Milton Keynes</option>
+		<option value="63">Newcastle</option>
+		<option value="64">Newport</option>
+		<option value="65">Newquay</option>
+		<option value="150">Newton Abbot</option>
+		<option value="66">Norwich</option>
+		<option value="67">Norwich, University of East Anglia</option>
+		<option value="68">Nottingham</option>
+		<option value="69">Oban</option>
+		<option value="71">Oxford</option>
+		<option value="72">Paignton</option>
+		<option value="113">Paris</option>
+		<option value="73">Pembroke Dock</option>
+		<option value="74">Penzance</option>
+		<option value="75">Perth </option>
+		<option value="76">Pitlochry</option>
+		<option value="77">Plymouth</option>
+		<option value="78">Poole</option>
+		<option value="79">Portsmouth</option>
+		<option value="80">Preston </option>
+		<option value="82">Redruth</option>
+		<option value="186">Rome</option>
+		<option value="83">Rosslare</option>
+		<option value="134">Rotterdam</option>
+		<option value="84">Rugby</option>
+		<option value="86">Salisbury</option>
+		<option value="88">Scunthorpe</option>
+		<option value="90">Sheffield</option>
+		<option value="224">Siena</option>
+		<option value="91">Silverstone</option>
+		<option value="93">Southampton</option>
+		<option value="165">St Erth</option>
+		<option value="95">Stirling</option>
+		<option value="96">Sunderland</option>
+		<option value="97">Swansea</option>
+		<option value="98">Swindon</option>
+		<option value="99">Tarbert</option>
+		<option value="101">Torquay</option>
+		<option value="173">Toulouse</option>
+		<option value="214">Turin</option>
+		<option value="102">Wakefield/Woolley Edge</option>
+		<option value="104">Weymouth</option>
+		<option value="136">Worcester</option>
+		<option value="106">Yeovil Junction</option>
+		<option value="107">York </option>
+
+	</select>
+						<!-- mp_trans_schedule_disable_end -->
+					</div>
+					
+						<div class="mid_col">
+							<label for="JourneyPlanner_ddlTravellingBy" id="JourneyPlanner_lblTravellingBy">Travelling by</label>
+						</div>
+						<div class="right_col">
+							<select name="JourneyPlanner$ddlTravellingBy" id="JourneyPlanner_ddlTravellingBy" disabled="disabled">
+
+	</select>
+						</div>
+					
+					<div class="mid_col">
+						<label for="JourneyPlanner_txtOutboundDate" id="JourneyPlanner_lblOutboundDate">Outbound date</label>
+					</div>
+					<div class="right_col calendarbox" style="height: 26px">
+						<input name="JourneyPlanner$txtOutboundDate" type="text" id="JourneyPlanner_txtOutboundDate" disabled="disabled" class=" datepicker datepicker" />
+					</div>
+					<div class="mid_col">
+						<label for="JourneyPlanner_txtReturnDate" id="JourneyPlanner_lblReturnDate">Return date</label>
+					</div>
+					<div class="right_col calendarbox">
+						<input name="JourneyPlanner$txtReturnDate" type="text" id="JourneyPlanner_txtReturnDate" disabled="disabled" class=" datepicker datepicker" />
+					</div>
+					
+						<div class="mid_col promotion_code">
+							<label for="JourneyPlanner_txtPromotionalCode" id="JourneyPlanner_lblPromotionalCode">Promotion Code?</label>
+							
+						</div>
+						<div class="right_col">
+							<input name="JourneyPlanner$txtPromotionalCode" type="text" id="JourneyPlanner_txtPromotionalCode" />
+						</div>
+					
+					<div style="float: right; padding: 5px 4px;">
+						<input type="submit" name="JourneyPlanner$btnSearch" value="Search" id="JourneyPlanner_btnSearch" disabled="disabled" title="Search" class="btn_search" AlternativeText="Click to Search" />
+					</div>
+				
+</div>
+		</div>
+	</div>
+	<div class="manage_reservation">
+		<a id="JourneyPlanner_hypManageReservations" href="ManageReservations.aspx">Manage Reservations</a>
+	</div>
+</div>
+<div class="footer"><div class="other_info"><!DOCTYPE div PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><div xmlns="http://www.w3.org/1999/xhtml"><div class=""><h3 class="disable">Passengers with Disabilities</h3><p class="" style="">Need assistance with your trip? <a target="_self" class="" href="passengers-with-disabilities.aspx">Click here</a></p><h3 class="luggage">Luggage Allowance</h3><p class="" style="">Is your luggage within limit? <a target="_self" class="" href="luggage-allowance.aspx">Click here</a></p><h3 class="travel-documents">International Journeys</h3><p class="" style="">Important Information <a class="" name="" target="_self" href="travel-documents.aspx" title="">Click here</a></p><h3 class="phone">Book by phone</h3><p class="phone_para" style="">For details please <a target="_self" class="" href="ContactUs.aspx">Click here</a></p></div></div></div></div></div><div class="banner_img"> </div><img height="1" width="1" src="http://switch.atdmt.com/action/mvemgb_homepage_1" /></div><div class="content_main_right clearfix"><div class="home_banner"><div id="LanguageBanner1_divBanner" class="mb-banner banner-thin" data-banner-spec="flashbanner/1_slideshow-data.xml">
+	<img src="images/default_banner.jpg" border="0" alt="Click on a state to find your route" title="Click on a state to find your route" />
+</div></div><div class="service_info"><h1> </h1><div class="body"><div class="inside">
+<style>
+	.exceptionbanner{height:auto;padding:6px 0 6px 4px;color:#ffffff; color:#fff; font-weight:bold; font-size:11px;}
+	.exceptionbanner a{ color:#fff;}
+	.red_exception{background-color:#CC0000;}
+	.green_exception{background-color:#009900;}
+</style>
+
+<div class="NoAdvisories">
+<div class="advisories">
+    <span id="ServiceAdvisoryList1_lblError" style="display: none;"></span>
+    
+            
+                    <div>
+                        <h3>
+                            <span>
+                                megabus.com Paris stop
+                                <input type="hidden" name="ServiceAdvisoryList1$RpServiceAdvisories$ctl00$hdnFlag" id="ServiceAdvisoryList1_RpServiceAdvisories_ctl00_hdnFlag" value="True" />
+                            </span>
+                        </h3>
+                        <p class="date">
+                            Posted:
+                            <!-- mp_trans -->
+                            Friday, 22 January 2016
+                        </p>
+                        <p class="summary">
+
+                            All megabus.com coaches in Paris use the stop at 
+<br><br>
+Quai De Seine Arret Megabus
+<br>208 Qua...
+
+                            <br />
+                            <a id="ServiceAdvisoryList1_RpServiceAdvisories_ctl00_hlReadMore" href="ServiceAdvisory.aspx?id=365&amp;home=true">Read more</a>
+                        </p>
+                    </div>
+                
+                    <div>
+                        <h3>
+                            <span>
+                                megabus.com Amsterdam stop
+                                <input type="hidden" name="ServiceAdvisoryList1$RpServiceAdvisories$ctl01$hdnFlag" id="ServiceAdvisoryList1_RpServiceAdvisories_ctl01_hdnFlag" value="True" />
+                            </span>
+                        </h3>
+                        <p class="date">
+                            Posted:
+                            <!-- mp_trans -->
+                            Thursday, 04 February 2016
+                        </p>
+                        <p class="summary">
+
+                            megabus.com stop in Amsterdam is now outside Sloterdijk Rail Station in Radarweg. 
+<br><br>
+<iframe...
+
+                            <br />
+                            <a id="ServiceAdvisoryList1_RpServiceAdvisories_ctl01_hlReadMore" href="ServiceAdvisory.aspx?id=375&amp;home=true">Read more</a>
+                        </p>
+                    </div>
+                
+            <script type="text/javascript">
+                jQuery(function () {
+                    var maxWidth = 0;
+                    jQuery('div.advisories h3 span').each(function () {
+                        if (jQuery(this).width() > maxWidth) { maxWidth = jQuery(this).width(); }
+                    });
+
+                    jQuery('div.advisories h3 span input').each(function () {
+                        if (jQuery(this).val() == 'True') {
+                            jQuery(this).parent().parent().wrapInner('<marquee style="color:Red;" />');
+                        }
+                    });
+                });
+            </script>
+        
+</div>
+</div><a href="ServiceAdvisories.aspx"><img src="images/banner_serv_adv.gif" alt="Service Advisories" title="Service Advisories" /></a></div></div><div class="footer"> </div></div><div class="column3_3"><div class="custom"><div class="floatnone" xmlns="http://www.w3.org/1999/xhtml"><a target="_top" href="Route map.aspx"><img alt="Route Map" src="uploads/networkmap_aug2014.jpg" /></a></div></div></div><div class="flash_lower">		
+						
+						<script language="JavaScript" type="text/javascript">
+						AC_FL_RunContent(
+						'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0',
+						'width', '536',
+						'height', '100',
+						'src', 'images/HomeFeature2',
+						'quality', 'high',
+						'pluginspage', 'http://www.adobe.com/go/getflashplayer',
+						'align', 'middle',
+						'play', 'true',
+						'loop', 'true',
+						'scale', 'showall',
+						'wmode', 'transparent',
+						'devicefont', 'false',
+						'id', 'HomeFeature2',
+						'bgcolor', '#ffffff',
+						'name', 'HomeFeature2',
+						'menu', 'true',
+						'allowFullScreen', 'False',
+						'allowScriptAccess','always',
+						'movie', 'images/HomeFeature2',
+						'salign', '');
+						</script>
+						<noscript>
+						<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="536" height="100" id="HomeFeature2" align="middle">
+						<param name="allowScriptAccess" value="always" />
+						<param name="allowFullScreen" value="False" />
+						<param name="movie" value="images/HomeFeature2.swf" />
+						<param name="quality" value="high" />
+						<param name="wmode" value="transparent" />
+						<param name="bgcolor" value="#ffffff" />
+
+						<embed src="images/HomeFeature2.swf" quality="high" bgcolor="#F1EFEF" width="536" height="100" name="HomeFeature2" align="middle" allowScriptAccess="always" allowFullScreen="False" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
+						</object>
+						</noscript>
+          				
+				<div xmlns="http://www.w3.org/1999/xhtml"><p class="" style="">Wi-Fi and charging points available on selected services. If Wi-Fi or charging points are unavailable no refund will be offered.</p></div></div></div></div><div class="level2"> <div class="floatnone" xmlns="http://www.w3.org/1999/xhtml"><a target="_blank" href="http://www.silverstone.co.uk/"><img alt="Silverstone 3" src="uploads/lozenge3_silverstone.jpg" /></a></div><div class="floatnone" xmlns="http://www.w3.org/1999/xhtml"><a target="_top" href=" http://www.snapsurveys.com/swh/surveylogin.asp?k=138382624300"><img alt="Tell us what you think" src="uploads/uk-survey-banner.jpg" /></a></div><div class="floatnone" xmlns="http://www.w3.org/1999/xhtml"><a target="_blank" href="http://visitorshop.tfl.gov.uk/tfl/london-visitor-oyster-card/?cid=c611426d20664081a92eb1c91d6c1cf13132&amp;utm_medium=affiliate&amp;utm_source=megabus&amp;utm_campaign=affiliate"><img alt="transport-for-london" src="uploads/mgb056_transport-london_v1.jpg" /></a></div> </div>		
+										
+              <!-- Tag for Activity Group: Counter_Tags, Activity Name: 001. Homepage, Activity ID: 745263 -->
+              <!-- Expected URL: http://? 
+
+              Activity ID: 745263
+              Activity Name: 001. Homepage
+              Activity Group Name: Counter_Tags
+
+              Start of DoubleClick Floodlight Tag: Please do not remove
+              Activity name of this tag: 001. Homepage
+              URL of the webpage where the tag is expected to be placed: http://?
+              This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+              Creation Date: 10/04/2010
+              -->
+              
+              <script type="text/javascript">
+                var axel = Math.random() + "";
+                var a = axel * 10000000000000;
+                document.write('<iframe src="http://fls.doubleclick.net/activityi;src=2943808;type=count527;cat=001ho011;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="margin-left:900px;"></iframe>');
+              </script>
+              <noscript>
+                <iframe src="http://fls.doubleclick.net/activityi;src=2943808;type=count527;cat=001ho011;ord=1;num=1?" width="1" height="1" frameborder="0" style="margin-left:900px;"></iframe>
+              </noscript>
+              <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+          	
+		</div></div></div><div class="cont_bottomcurve"> </div></div></div><div class="bottomcurve"><div class="bottom_links"><p>Brought to you by</p><div><a href="http://www.stagecoach.com/" class="external"><img src="images/stagecoach_group.gif" alt="stagecoach group" class="small" /></a><a href="http://www.citylink.co.uk" class="external"><img src="images/city-link.gif" alt="cltylink" /></a><a href="http://www.stagecoachbus.com/" class="external"><img src="images/stagecoachlogo.gif" alt="StagecoachBus" /></a></div>
+
+<div class="shopping_icons">
+	<a href="http://www.worldpay.com" class="external">
+		<img src="images/poweredByWorldPay.gif" alt="Powered By WorldPay" title="Powered By WorldPay" style="margin-top: -5px;" />
+		<img src="/images/PayPal.png" id="ctl18_imgPayPal" alt="PayPal" title="PayPal" style="width: 38px" />
+		<img src="images/uk_ideal.gif" alt="iDeal" title="iDeal" />
+		<img src="images/uk_bleue.gif" alt="Carte Bleue" title="Carte Bleue" />
+		<img src="images/uk_cb.gif" alt="Carte Bancaire" title="Carte Bancaire" />
+		<img src="images/uk_giropay.gif" alt="Giropay" title="Giropay" />
+		<img src="images/uk_mastercard.gif" alt="MasterCard" title="MasterCard" />
+		<img src="images/uk_jcb.gif" alt="JCB" title="JCB" />
+		<img src="images/uk_meastro.gif" alt="Maestro" title="Maestro" />
+		<img src="images/uk_visa_credit.gif" alt="Visa Credit" title="Visa Credit" />
+		<img src="images/uk_visa_debit.gif" alt="Visa Debit" title="Visa Debit" />
+	</a>
+</div>
+</div><div class="copyright_note"><p>
+                © 2012 Stagecoach Group PLC
+			</p></div><ul class="bottom_lnks"><li class="first"><a title="Imprint" href="imprint.aspx">Imprint</a></li><li><a title="Privacy Policy" href="conditions-of-website-usage.aspx">Privacy Policy</a></li><li><a title="About Us" href="about-us.aspx">About Us</a></li><li><a title="Information for passengers with disabilities" href="passengers-with-disabilities.aspx">Information for passengers with disabilities</a></li><li><a title="Contact Us" href="ContactUs.aspx">Contact Us</a></li><li><a title="Media Area" href="media.aspx">Media Area</a></li><li><a title="Sitemap" href="sitemap.aspx">Sitemap</a></li><li><a title="Website accessibility" href="accessibility.aspx">Website accessibility</a></li><li><a title="Terms and Conditions" href="terms-and-conditions.aspx">Terms and Conditions</a></li></ul></div><!DOCTYPE div PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><div id="footer" xmlns:uc1="http://www.emperordesign.co.uk"><div class="container"><div class="footer_links"><div class="column1_1"><h5>Explore megabus.com</h5><ul><div xmlns="http://www.w3.org/1999/xhtml"><li class=""><a target="_self" class="" href="about-us.aspx">About megabus</a></li><li class=""><a target="_self" class="" href="useful-links.aspx">Customer Service</a></li><li class=""><a target="_self" class="" href="BusStops.aspx">Bus Stops</a></li><li class=""><a target="_self" class="" href="FAQ.aspx">FAQs</a></li><li class=""><a target="_self" class="" href="press-releases.aspx">Press Releases</a></li><li class=""><a target="_self" class="" href="register.aspx">Register</a></li><li class=""><a target="_self" class="" href="ServiceAdvisories.aspx">Service Information</a></li><li class=""><a target="_self" class="" href="terms-and-conditions.aspx">Terms and Conditions</a></li></div></ul></div><div class="column1_2"><h5>Our network</h5><ul><div xmlns="http://www.w3.org/1999/xhtml"><li class=""><a target="_self" class="" href="uk-destinations.aspx">Travel within the UK</a></li><li class=""><a target="_self" class="" href="europe.aspx">Travel to Europe</a></li><li class=""><a target="_self" class="" href="routesuk.aspx">Routes in the UK</a></li></div></ul></div><div class="column1_3"><h5>Stagecoach Group in the UK</h5><ul><div xmlns="http://www.w3.org/1999/xhtml"><li class=""><a class="" name="" target="_self" href="http://www.stagecoach.com" title="">Stagecoach Group</a></li><li class=""><a class="" name="" target="_self" href="http://www.stagecoachbus.com" title="">Stagecoach UK Bus</a></li><li class=""><a class="" name="" target="_self" href="http://www.oxfordtube.com" title="">Oxford Tube</a></li><li class=""><a class="" name="" target="_self" href="http://www.citylink.co.uk" title="">Scottish Citylink</a></li><li class=""><a class="" name="" target="_self" href="http://www.southwesttrains.co.uk" title="">South West Trains</a></li><li class=""><a class="" name="" target="_self" href="http://www.eastmidlandstrains.co.uk" title="">East Midlands Trains</a></li><li class=""><a class="" name="" target="_self" href="http://www.virgintrains.co.uk" title="">Virgin Trains</a></li><li class=""><a class="" name="" target="_self" href="http://www.supertram.com" title="">Stagecoach Supertram</a></li></div></ul></div><div class="column1_4"><h5>Other websites</h5><ul><div xmlns="http://www.w3.org/1999/xhtml"><li class=""><a class="" name="" target="_self" href="http://www.megabusgold.com" title="">Megabus Gold</a></li><li class=""><a class="" name="" target="_self" href="http://www.coachusa.com" title="">Coach USA</a></li><li class=""><a class="" name="" target="_self" href="http://www.coachcanada.com" title="">Coach Canada</a></li><li class=""><a class="" name="" target="_self" href="http://us.megabus.com" title="">Megabus US</a></li><li class=""><a class="" name="" target="_self" href="http://ca.megabus.com" title="">Megabus Canada</a></li></div></ul></div></div></div><div class="footer_bottomcurve"> </div></div></div></div>
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form></body></html>
