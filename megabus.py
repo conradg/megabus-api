@@ -144,7 +144,7 @@ def get_journey(start, end, date):
                  'cost'     : cost,
                  'date'     : date}
 
-    #print (", ".join([depart_time,depart_loc,arrive_time,arrive_loc,str(duration),str(days),str(next_day),"£"+cost]))
+    #print (", ".join([depart_time,depart_loc,arrive_time,arrive_loc,str(duration),str(days),str(next_day),"$"+cost]))
 
     #print ("Departs:",depart_time,depart_loc, "       Duration:", duration, "    Cost:",str(cost))
     #print ("Arrives:",arrive_time+next_day_string,arrive_loc)
@@ -161,9 +161,9 @@ def get_cheapest_in_month(start, end, month_num):
 
   journeys = []
   lowest_price = "999999"
-  for x in range(1,3):#month_range):
-    day = get_journey(start,end,str(x)+"/" + str(month_num) + "/2016")
-    print(day)
+  for x in range(1,month_range):
+    print (x)
+    day = get_journey(start,end,str(x)+"/" + str(month_num) + "/2016") 
     for journey in day:
       if journey['cost'] < lowest_price:
         lowest_price = journey['cost']
