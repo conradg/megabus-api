@@ -31,6 +31,11 @@ def get_journey(path):
     return json.dumps(info)
 
 
+@app.route('/test/')
+def test():
+    times = [{"timings": {"arrive": "22:45", "depart": "17:45"}, "days": 0, "date": "8/7/2016", "next_day": 0, "locations": {"arrive": "Leeds", "depart": "Oxford"}, "cost": "1.00", "duration": "5hrs 0mins"}, {"timings": {"arrive": "22:45", "depart": "17:45"}, "days": 0, "date": "22/7/2016", "next_day": 0, "locations": {"arrive": "Leeds", "depart": "Oxford"}, "cost": "1.00", "duration": "5hrs 0mins"}, {"timings": {"arrive": "22:25", "depart": "17:30"}, "days": 0, "date": "26/7/2016", "next_day": 0, "locations": {"arrive": "Leeds", "depart": "Oxford"}, "cost": "1.00", "duration": "4hrs 55mins"}]
+    return json.dumps(times)
+
 
 
 

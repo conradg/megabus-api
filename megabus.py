@@ -163,16 +163,13 @@ def get_cheapest_in_month(start, end, month_num):
   lowest_price = "999999"
   for x in range(1,month_range):
     print (x)
-    day = get_journey(start,end,str(x)+"/" + str(month_num) + "/2016") 
+    day = get_journey(start,end,str(x)+"/" + str(month_num) + "/2016")
     for journey in day:
       if journey['cost'] < lowest_price:
         lowest_price = journey['cost']
       journeys.append(journey)
 
-  cheapest_journeys = []
-  for journey in journeys:
-    if journey['cost'] == lowest_price:
-      cheapest_journeys.append(journey)
+  cheapest_journeys = sorted(journeys, key=lambda k: k['cost'])
 
   return cheapest_journeys
 
