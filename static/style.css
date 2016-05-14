@@ -21,9 +21,10 @@ h1 {
   color: white;
   font-size: 46px;
   text-align: left;
+  text-shadow: 2px 2px #010223;
 }
 
-p {
+p, td{
   margin: 6px 0;
   color: #AAABCA;
   font-weight: 600;
@@ -35,7 +36,6 @@ p {
 
 
 main {
-    width: 100%;
     margin: 200px 7%;
 }
 
@@ -96,4 +96,20 @@ main {
 
 #departures{
   display: none;
+}
+
+.results{
+  margin-top:20px;
+  width:100%;
+}
+
+table{
+  width:100%;
+  background-color: #C9C9EC;
+  border-radius: 20px;
+  height: 200px;
+}
+
+td{
+  width:33%
 }
