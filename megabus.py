@@ -169,7 +169,7 @@ def get_cheapest_in_month(start, end, month_num):
         lowest_price = journey['cost']
       journeys.append(journey)
 
-  cheapest_journeys = sorted(journeys, key=lambda k: k['cost'])
+  cheapest_journeys = sorted(journeys, key=lambda k: float(k['cost']))
 
   return cheapest_journeys
 
