@@ -155,10 +155,9 @@ def get_journey(start, end, date):
 
 months = {v: k for k,v in enumerate(calendar.month_abbr)}
 
-def get_cheapest_in_month(start, end, month_num):
-
+def get_cheapest_in_month_num(start, end, month_num):
+  print ("made it")
   month_range = calendar.monthrange(2016,month_num)[1]
-
   journeys = []
   lowest_price = "999999"
   for x in range(1,month_range):
@@ -173,3 +172,8 @@ def get_cheapest_in_month(start, end, month_num):
 
   return cheapest_journeys
 
+
+def get_cheapest_in_month_string(start,end, month_string):
+  month_string = month_string.capitalize().strip(" ")
+  months = {v: k for k,v in enumerate(calendar.month_name)}
+  return get_cheapest_in_month_num(start,end, months[month_string])

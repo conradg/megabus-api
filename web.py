@@ -16,8 +16,12 @@ def get_cheapest_in_month(path):
     split =  path.split("/")
     start = split[0]
     end   = split[1]
-    month  = int(split[2])
-    info = megabus.get_cheapest_in_month(start, end, month)
+    month = split[2]
+    try:
+      month = int(month)
+      info = megabus.get_cheapest_in_month_num(start, end, month)
+    except ValueError:
+      info = megabus.get_cheapest_in_month_string(start, end, month)
     return json.dumps(info)
 
 @app.route('/journey/<path:path>')
